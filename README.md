@@ -1,11 +1,12 @@
- Welcome to my github! 
+ Welcome to my Github! 
 
  Hi👋, I’m Manvi
  
- 📚 Goal-oriented Computer Science student with strong problem-solving skills and proficiency in programming, web development, and software design. Fluent in four languages, eager to leverage technical skills and passion for learning in dynamic computer science projects.
+Goal-oriented Computer Science student with strong problem-solving skills and proficiency in programming, web development, and software design. Fluent in four languages, eager to leverage technical skills and passion for learning in dynamic computer science projects.  📚
 
  
- 🍀 I love working on new and interesting projects 
+I love working on new and interesting projects.  🍀 
+
 
  
 Interests👀  
