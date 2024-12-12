@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manvi</h1>
 <h3 align="center">A passionate enginneering student</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning and Web Development**
 
 - 📫 How to reach me **manvip2804@gmail.com**
 
